@@ -1,6 +1,6 @@
 <?php
 
-namespace Medium;
+namespace Sbuckpesch\Medium;
 
 class Post {
 

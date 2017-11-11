@@ -5,7 +5,7 @@
  * Time: 22:36
  */
 
-namespace Medium;
+namespace Sbuckpesch\Medium;
 
 use GuzzleHttp\Client;
 
