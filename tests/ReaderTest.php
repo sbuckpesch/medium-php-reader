@@ -18,14 +18,4 @@ class ReaderTest extends TestCase {
 		$this->assertGreaterThan( 0, count( $posts ) );
 	}
 
-	/*public function testCannotBeCreatedFromInvalidEmailAddress(): void
-	{
-		$this->expectException(InvalidArgumentException::class);
-
-		Email::fromString('invalid');
-	}
-
-	public function testCanBeUsedAsString(): void
-	{
-		$this->assertEquals(
-			'user@example.com',
+}
