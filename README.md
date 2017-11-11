@@ -31,7 +31,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **Sebastian Buckpesch** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Sebastian Buckpesch** - *Initial work* - [buckpesch.io](https://buckpesch.io)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
