@@ -9,7 +9,7 @@ namespace Sbuckpesch\Medium;
 
 use GuzzleHttp\Client;
 
-class Medium {
+class Reader {
 
 	private $user;
 

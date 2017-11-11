@@ -30,7 +30,9 @@
     "php": ">=7.0",
     "guzzlehttp/guzzle": "^6.3"
   },
-  "psr-4": {
-    "Sbuckpesch\\Medium\\": "src"
+  "autoload": {
+    "psr-4": {
+      "Sbuckpesch\\Medium\\": "src"
+    }
   }
 }
