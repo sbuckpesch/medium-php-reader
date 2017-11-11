@@ -3,8 +3,9 @@
 class MediumTest extends PHPUnit_Framework_TestCase {
 
 	public function testNachHasCheese() {
-		$nacho = new Nacho;
-		$this->assertTrue( $nacho->hasCheese() );
+		$medium = new \Sbuckpesch\Medium\Medium( '@sbuckpesch' );
+		$posts  = $medium->getPosts();
+		$this->assertTrue( count( $posts ) > 0 );
 	}
 
 }
