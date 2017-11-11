@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/sbuckpesch/medium-php-reader.svg?branch=master)](https://travis-ci.org/sbuckpesch/medium-php-reader)
+
 # medium-php-reader
 Easy SDK for reading Medium posts of a user by parsing mediums JSON feed.
 
